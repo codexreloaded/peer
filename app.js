@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Sample",
+  "name": "peerflix-server",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/heroku/node-js-sample",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
