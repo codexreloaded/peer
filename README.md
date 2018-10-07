@@ -60,6 +60,15 @@ forever start $(which peerflix-server)
 
 You might also want to enable logging -- see the [docs](https://github.com/foreverjs/forever#command-line-usage).
 
+
+
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
+
+
+
 ## FAQ
 
 [How do I add password protection?](https://github.com/asapach/peerflix-server/wiki/How-to-put-a-password-on-peerflix-server)
@@ -71,10 +80,6 @@ See [Development.md](Development.md)
 ## REST API
 
 See [REST.md](REST.md)
-
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
 
 ## Docker
 
