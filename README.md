@@ -72,6 +72,10 @@ See [Development.md](Development.md)
 
 See [REST.md](REST.md)
 
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 ## Docker
 
 See [Docker.md](Docker.md)
