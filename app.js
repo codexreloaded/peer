@@ -1,5 +1,7 @@
-const port = process.env.PORT || 4000;
-app.listen(port);
-heroku create
-git push heroku master
-heroku open
+{
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/heroku/node-js-sample",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
