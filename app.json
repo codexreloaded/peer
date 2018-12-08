@@ -2,6 +2,6 @@
   "name": "peerflix-server",
   "description": "Based on torrent-stream, inspired by peerflix.",
   "repository": "https://github.com/heroku/node-js-sample",
-  "logo": "https://cdn.rawgit.com/asapach/peerflix-server/master/app/images/logo.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/asapach/peerflix-server/app/images/logo.svg",
   "keywords": ["node", "express", "static"]
 }
